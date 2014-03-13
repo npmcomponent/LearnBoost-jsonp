@@ -2,7 +2,7 @@
  * Module dependencies
  */
 
-var debug = require('debug')('jsonp');
+var debug = require('visionmedia-debug')('jsonp');
 
 /**
  * Module exports.

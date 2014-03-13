@@ -1,17 +1,9 @@
 {
-  "name": "jsonp",
+  "name": "learnboost-jsonp",
   "description": "A sane JSONP implementation.",
   "version": "0.0.4",
+  "main": "index.js",
   "dependencies": {
-    "debug": "*"
-  },
-  "component": {
-    "scripts": {
-      "jsonp": "jsonp.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LearnBoost/jsonp.git"
+    "visionmedia-debug": "git://github.com/npmcomponent/visionmedia-debug.git"
   }
 }
